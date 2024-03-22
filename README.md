@@ -29,7 +29,7 @@ Reposity, repo, Remote, Local, recurisive, directory, upstream
 - **Stash**: More like commit, stages and saves changes of the current working branch
 
 
-**Create a repository**
+## Create a repository
 
 - Go to your github and click create repository
 - Give a name for the repo
@@ -47,7 +47,7 @@ Reposity, repo, Remote, Local, recurisive, directory, upstream
 - `git push -u origin main` this will finally push the files into the remote repository.
 - `-u` means upstream branch, this is used so that you don't have to include `origin branchname` everytime you push
 
-**How to clone a repo?**
+## How to clone a Remote Repository?
 
 - Visit the Remote repository you want to clone
 - Copy the HTTPS web URL for the repo which may look like this `https://github.com/antareephasan/spotify-clone.git`
@@ -55,7 +55,7 @@ Reposity, repo, Remote, Local, recurisive, directory, upstream
 - navigate to your desired directory where you want to clone and execute this command
 - `git clone https://github.com/antareephasan/spotify-clone.git`
 
-**How to Commit changes and Push**
+## How to Commit changes and Push in a Remote Repository
 
 - this will only work if you have already created and connected a remote repository with this directory.
 - Add the file or files you want created or changed using `add` command
@@ -68,7 +68,7 @@ Reposity, repo, Remote, Local, recurisive, directory, upstream
 - use this command for push `git push origin main`
 - here the main 
 
-**WTF is Stash**
+## WTF is Stash
 
 - Stash is a way to save your current branch changes in your local repository which you can pop back later
 - This is used when your main/master branch is ahead of your current working branch
