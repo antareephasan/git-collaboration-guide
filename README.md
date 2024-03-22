@@ -10,23 +10,23 @@ Reposity, repo, Remote, Local, recurisive, directory, upstream
 
 ## Basic Commands
 
-**Init**: User for initializing an empty local repository
+- **Init**: User for initializing an empty local repository
 
-**Add**: Add a file in the git stage
+- **Add**: Add a file in the git stage
 
-**Push**: Used for pushing code changes into a remote repository
+- **Push**: Used for pushing code changes into a remote repository
 
-**Commit**: Used for listing changes into existing local repository
+- **Commit**: Used for listing changes into existing local repository
 
-**Pull**: Used for pulling new codes from a remote repository
+- **Pull**: Used for pulling new codes from a remote repository
 
-**Clone**: Used for cloning a remote repository  
+- **Clone**: Used for cloning a remote repository  
 
-**Checkout**: Used for switching branches or creating new one
+- **Checkout**: Used for switching branches or creating new one
 
-**Merge**: Used for merging 2 different branches of same git repository
+- **Merge**: Used for merging 2 different branches of same git repository
 
-**Stash**: More like commit, stages and saves changes of the current working branch
+- **Stash**: More like commit, stages and saves changes of the current working branch
 
 
 **Create a repository**
